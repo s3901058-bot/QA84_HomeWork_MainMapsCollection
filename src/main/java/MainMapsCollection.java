@@ -43,7 +43,7 @@ public class MainMapsCollection {
 
 
 
-//      Делает то же самое только меньше строчек кода )
+////      Делает то же самое только меньше строчек кода )
 //     public static void printCitiesMap(Map<String,Integer> map){
 //      for(String key:map.keySet()){
 //        System.out.println(key+" => "+map.get(key));
