@@ -32,9 +32,9 @@ public class MainMapsCollection {
     public static void printCitiesMap(Map<String,Integer> map){
         Set<String> keySet = map.keySet();
         for(String key:keySet){
-            System.out.print(key+": ");
+            System.out.print(key+" =>");
             int value = map.get(key);
-            System.out.println(" =>  "+value);
+            System.out.println(" "+value);
 
         }
             System.out.println("+++-*-*-*-+");
